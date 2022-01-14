@@ -7,11 +7,11 @@ Loosely inspired by the 1998 anime series Cowboy Bebop, **Space Cowgirls** is te
 
 
 ## Gameplay Overview
-![Title-Screen](title.png)
-![Background](story.png)
-![Attack-or-Run](battlechoice.png)
-![Loser](gamelose.png)
-![Winner](gamewin.png)
+![Title-Screen](title.png "Title")
+![Background](story.png "Setting")
+![Attack-or-Run](battlechoice.png "Battle Choice")
+![Loser](gamelose.png "Loser")
+![Winner](gamewin.png "Winner")
 ---
 
 ## Utilized Technologies
